@@ -272,6 +272,12 @@ height: 360px;
 	}
 }
 
+@media (min-width: 1000px) and
+(min-height: 845px) {
+	background-size: 220%;
+}
+
+
 
 /*//// Font ////*/
 
